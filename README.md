@@ -1,4 +1,4 @@
-# PetStore
+# PetStore with CircleCI builds
 
 ## CircleCI build status
 [![CircleCI](https://circleci.com/gh/brendonghumman/pet-store.svg?style=svg)](https://circleci.com/gh/brendonghumman/pet-store)
